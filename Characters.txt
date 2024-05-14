@@ -1,4 +1,5 @@
 Leo-The Lion,
 Leo d'Caprio,
 Emma Roberts,
-Alice
+Alice,
+John-The Juggler
